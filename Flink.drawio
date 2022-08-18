@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-18T18:12:55.611Z" agent="5.0 (Windows)" etag="cu5g2GKvAZCHemZw6fs_" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-18T18:20:35.721Z" agent="5.0 (Windows)" etag="gSBprfg3Qeveg970kqzW" version="20.2.4" type="github">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-left: 8.4px;margin-right: 8.4px;margin-top: 2.4px;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:20px;color:#ffffff;font-weight: bold;&quot;&gt;Кластер Apache Flink 1.12.1&lt;/span&gt;&lt;span style=&quot;font-size:18.3px;color:#ffffff;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="HypIWP6OqjXQ" id="GCK1D6IZPBhYrOcdengF-118">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.6;verticalAlign=top;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#8b90ff;strokeWidth=0.8;" parent="1" vertex="1">
-            <mxGeometry x="69" y="190" width="914" height="165" as="geometry" />
+            <mxGeometry x="70" y="190" width="913" height="165" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="JOBMANAGER" lucidchartObjectId="HypInYoTSrlu" id="GCK1D6IZPBhYrOcdengF-119">
